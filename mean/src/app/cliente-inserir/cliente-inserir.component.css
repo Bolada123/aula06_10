@@ -1,0 +1,10 @@
+mat-card{
+width: 80%;
+margin: auto;
+border-radius: 3%;
+}
+
+mat-form-fielf,
+input {
+    width: 100%;
+}
